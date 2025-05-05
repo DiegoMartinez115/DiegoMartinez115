@@ -6,7 +6,7 @@
 ### 📫 Contacto
 - 📞 Tel: (52) 618-232-89-21  
 - 📧 Email: diego.mtz.molina115@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/diego-manuel-mart%C3%ADnez-molina-b75552296)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> Linkedin: https://www.linkedin.com/in/diego-manuel-mart%C3%ADnez-molina-b75552296
 
 ---
 
