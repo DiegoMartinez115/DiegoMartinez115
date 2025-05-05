@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Diego Manuel Martínez Molina</h1>
+<h3 align="center">👨‍💻 Ingeniero en Software | Desarrollador Fullstack</h3>
 
-<!--
-**DiegoMartinez115/DiegoMartinez115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Contacto
+- 📞 Tel: (52) 618-232-89-21  
+- 📧 Email: diego.mtz.molina115@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Aptitudes Técnicas
+- **Lenguajes de programación:** Java, JavaScript, PHP, Python, HTML, CSS, GeneXus  
+- **Frameworks y herramientas:** Laravel, Git, Power BI  
+- **Bases de datos:** SQL Server, MariaDB, PostgreSQL, MySQL  
+- **Otras habilidades:** Comunicación, trabajo en equipo, control de versiones  
+
+---
+
+### 💼 Experiencia Profesional
+
+#### 🏢 Ferretería Durango
+> Desarrollador Fullstack | 9 meses  
+
+#### 🖥️ KDS Sistemas  
+> Desarrollador GeneXus  
+
+#### 🌐 Dad Software  
+> Colaborador  
+
