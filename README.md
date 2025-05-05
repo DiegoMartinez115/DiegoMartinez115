@@ -13,8 +13,6 @@
 - **Lenguajes de programación:** Java, JavaScript, PHP, Python, HTML, CSS, GeneXus  
 - **Frameworks y herramientas:** Laravel, Git, Power BI  
 - **Bases de datos:** SQL Server, MariaDB, PostgreSQL, MySQL  
-- **Otras habilidades:** Comunicación, trabajo en equipo, control de versiones  
-
 ---
 
 ### 💼 Experiencia Profesional
