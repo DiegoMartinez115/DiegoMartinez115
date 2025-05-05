@@ -22,7 +22,7 @@
 <img src="https://avatars.githubusercontent.com/u/16494738?s=280&v=4" alt="GeneXus" width="30"/> 
 
 **Frameworks y herramientas:**  
-<img src="https://avatars.githubusercontent.com/u/16494738?s=280&v=4" alt="GeneXus" width="30"/> 
+<img src="https://laravel.gallerycdn.vsassets.io/extensions/laravel/vscode-laravel/1.0.7/1743524388290/Microsoft.VisualStudio.Services.Icons.Default" alt="Laravel" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30"/> 
 <img src="https://img.icons8.com/color/30/power-bi.png" alt="Power BI"/>  
 
