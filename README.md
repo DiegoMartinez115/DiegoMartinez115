@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30"/> 
-<img src="https://avatars.githubusercontent.com/u/16494738?s=280&v=4" alt="GeneXus" width="30"/> **GeneXus**
+<img src="https://avatars.githubusercontent.com/u/16494738?s=280&v=4" alt="GeneXus" width="30"/> 
 
 **Frameworks y herramientas:**  
 <img src="https://okitup.com/wp-content/uploads/2019/10/laravel.webp" alt="Laravel" width="30"/> 
